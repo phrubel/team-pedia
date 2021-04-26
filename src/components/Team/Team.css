@@ -1,0 +1,24 @@
+.explore-Btn {
+  margin-left: 35px;
+}
+.card {
+  float: left;
+  width: 30%;
+  margin: 10px;
+  text-align: center;
+  background-color: lightsteelblue;
+  /* padding: 10px; */
+  /* border: 1px solid red; */
+  /* backdrop-filter: blur(3px); */
+}
+.card-background{
+    background-color: lightslategray;
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .card{
+      width: auto;
+    }
+      
+    
+  }

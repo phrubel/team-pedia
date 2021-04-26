@@ -1,0 +1,18 @@
+.header{
+   background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Luzhniki_Stadium%2C_2018_FIFA_World_Cup.jpg/1024px-Luzhniki_Stadium%2C_2018_FIFA_World_Cup.jpg);
+   background-position: center;
+   background-size: cover;
+   padding: 17vh 0;
+   text-align: center;
+   position: relative;
+}
+/* .header::after{
+    display: block;
+    position:absolute;
+    top: 0;
+    left: 0;
+    background:darkgrey;
+    opacity: .5;
+    z-index: 1;
+
+} */
